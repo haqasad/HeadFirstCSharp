@@ -16,9 +16,11 @@ namespace Contacts
             InitializeComponent();
         }
 
+        // This method is called when the pictureBox (logo in the design file) is clicked
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Contact List 1.0.\nWritten by: Your Name", "About");
+            MessageBox.Show("Contact List 1.0.\nWritten by: Your Name", "About"); 
+            // This method causes to pop up a message box with a provided text. The box will be titled 'About'
         }
 
         private void peopleBindingNavigatorSaveItem_Click(object sender, EventArgs e)
