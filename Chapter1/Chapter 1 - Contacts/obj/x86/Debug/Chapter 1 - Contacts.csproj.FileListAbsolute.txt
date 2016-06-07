@@ -1,1 +1,5 @@
 C:\Users\haqasad\Documents\Codes\HeadFirstCSharp\Chapter1\Chapter 1 - Contacts\bin\Debug\Chapter 1 - Contacts.exe.config
+C:\Users\haqasad\Documents\Codes\HeadFirstCSharp\Chapter1\Chapter 1 - Contacts\obj\x86\Debug\Chapter 1 - Contacts.csprojResolveAssemblyReference.cache
+C:\Users\haqasad\Documents\Codes\HeadFirstCSharp\Chapter1\Chapter 1 - Contacts\obj\x86\Debug\Contacts.Form1.resources
+C:\Users\haqasad\Documents\Codes\HeadFirstCSharp\Chapter1\Chapter 1 - Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Users\haqasad\Documents\Codes\HeadFirstCSharp\Chapter1\Chapter 1 - Contacts\obj\x86\Debug\Chapter 1 - Contacts.csproj.GenerateResource.Cache
